@@ -1,0 +1,36 @@
+h2 {
+    text-align: center;
+    margin: 0;
+}
+footer {
+    text-align: center;
+}
+#main {
+    text-align: center;
+    border-top: 10px solid #F7E7DC;
+}
+.info {
+    text-align: center;
+    padding: 10px;
+}
+#color {
+    background-color: #405D72;
+}
+hr {
+    border: 10px solid #F7E7DC;
+    margin: 0;
+}
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+#end {
+    background-color: #758694;;
+    padding: 10px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
